@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: hn.uthestudiante.aplicacion_simple_maven_consola.AppTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.07 s - in hn.uthestudiante.aplicacion_simple_maven_consola.AppTest
